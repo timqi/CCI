@@ -1,4 +1,4 @@
-package com.timqi.chapter8;
+package com.timqi.c1;
 
 /**
  * Created by qiqi on 16/4/12.
